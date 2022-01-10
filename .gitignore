@@ -1,0 +1,7 @@
+/.idea/
+/scala_notes/target/
+/scala_notes/.idea/
+/spark_notes/.idea/
+/spark_notes/target/
+/spark_notes/spark_notes.iml
+/scala_notes/scala_notes.iml
