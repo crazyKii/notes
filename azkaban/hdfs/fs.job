@@ -1,0 +1,5 @@
+﻿#fs.job
+type=command
+command=echo "start execute"
+command.1=/kkb/install/hadoop-2.6.0-cdh5.14.2/bin/hdfs dfs -mkdir /azkaban
+command.2=/kkb/install/hadoop-2.6.0-cdh5.14.2/bin/hdfs dfs -put /home/hadoop/source.txt /azkaban

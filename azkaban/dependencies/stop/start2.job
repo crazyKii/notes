@@ -1,0 +1,3 @@
+#start2.job
+type=command
+command= echo 'start2...start2...'

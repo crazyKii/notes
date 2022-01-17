@@ -1,0 +1,4 @@
+#stop.job
+type=command
+dependencies=start1,start2
+command=echo 'stop .....'

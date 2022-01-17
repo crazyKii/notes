@@ -1,0 +1,4 @@
+#start2.job
+type=command
+dependencies=start1
+command= echo 'start2...start2...'

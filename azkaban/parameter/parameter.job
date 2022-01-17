@@ -1,0 +1,4 @@
+#parameter.job
+type=command
+parameter=${param}
+command= echo ${parameter}
